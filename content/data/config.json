@@ -15,14 +15,14 @@
             },
             {
                 "type": "Link",
-                "label": "Careers!s",
-                "url": "/careers",
+                "label": "Blog",
+                "url": "/blog",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Careers!s",
+                "url": "/careers",
                 "altText": ""
             }
         ],
