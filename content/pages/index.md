@@ -27,7 +27,7 @@ sections:
         elementId: hero-main-button
     feature:
       type: ImageBlock
-      url: /images/4.png
+      url: /images/4-e72c2f9c.png
       altText: Image alt text
       caption: Image caption
     styles:
