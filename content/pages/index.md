@@ -11,6 +11,11 @@ sections:
       employment.  Figure out your benefits, practice for interviews, get
       mentored, help peers, get helped in return.asd!
     actions:
+      - type: Button
+        label: Sign Up
+        url: 'https://www.stackbit.com/'
+        style: primary
+        elementId: hero-main-button
       - label: Learn more
         altText: Learn more
         url: /
@@ -20,11 +25,6 @@ sections:
         style: secondary
         elementId: ''
         type: Link
-      - type: Button
-        label: Sign Up
-        url: 'https://www.stackbit.com/'
-        style: primary
-        elementId: hero-main-button
     feature:
       type: ImageBlock
       url: /images/4.png
