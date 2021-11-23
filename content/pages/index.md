@@ -120,7 +120,7 @@ sections:
     feature:
       url: >-
         https://assets.stackbit.com/components/videos/default/stackbit-for-marketers.mp4
-      thumbnailUrl: /images/post-2.jpg
+      thumbnailUrl: /images/careers.jpg
       autoplay: false
       loop: false
       muted: false
