@@ -73,7 +73,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    colors: colors-e
+    colors: colors-c
     title: Where did everyone go?
     text: >
       Learn how top tech companies have learned working remote using our
