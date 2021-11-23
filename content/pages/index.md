@@ -376,7 +376,7 @@ sections:
           Learn how top tech companies have learned working remote using our
           product.
         featuredImage:
-          url: /images/focused.svg
+          url: /images/faster.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
