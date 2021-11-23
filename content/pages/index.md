@@ -260,7 +260,7 @@ sections:
         altText: image alt text
         caption: image caption
       - type: ImageBlock
-        url: /images/gatsby.svg
+        url: /images/apple.svg
         altText: image alt text
         caption: image caption
       - url: /images/xbox.svg
