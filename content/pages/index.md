@@ -27,7 +27,7 @@ sections:
         elementId: hero-main-button
     feature:
       type: ImageBlock
-      url: /images/careers.jpg
+      url: /images/apple.svg
       altText: Image alt text
       caption: Image caption
     styles:
