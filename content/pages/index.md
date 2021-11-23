@@ -126,6 +126,17 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    feature:
+      url: >-
+        https://assets.stackbit.com/components/videos/default/stackbit-for-marketers.mp4
+      thumbnailUrl: >-
+        https://assets.stackbit.com/components/images/default/stackbit-for-marketers.jpeg
+      autoplay: false
+      loop: false
+      muted: false
+      controls: false
+      elementId: ''
+      type: VideoBlock
   - elementId: ''
     colors: colors-c
     title: Where did everyone go?
