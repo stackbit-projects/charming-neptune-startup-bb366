@@ -74,15 +74,6 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-f
-    backgroundImage:
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
     title: This Is A Big Hero Headline
     subtitle: The section subtitle
     text: |-
