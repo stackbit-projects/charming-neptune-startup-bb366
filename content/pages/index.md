@@ -127,6 +127,52 @@ sections:
       elementId: ''
       type: VideoBlock
   - elementId: ''
+    variant: variant-a
+    colors: colors-a
+    title: About us
+    subtitle: Meet the team
+    actions: []
+    people:
+      - content/data/team/desmond-eagle.json
+      - content/data/team/dianne-ameter.json
+      - content/data/team/hilary-ouse.json
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: center
+        margin:
+          - mt-0
+          - mb-2
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+        margin:
+          - mt-0
+          - mb-12
+      actions:
+        justifyContent: center
+    type: FeaturedPeopleSection
+  - elementId: ''
     colors: colors-f
     backgroundImage:
       url: 'https://assets.stackbit.com/components/images/default/default-image.png'
